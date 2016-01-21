@@ -34,7 +34,7 @@ We've created this reference guide to provide people who are not developers (and
 
 
 ## To be answered (rough ideas for inclusion)
-_Note: The sub-headings here are not specifically sub-headings, they are just points that need to be covered. They should be split out into the most logical sub-headings when written._
+_Note: The sub-bullet points here are not specifically sub-headings that need to appear as titles in this document, they are just points that need to be covered. They should be split out into the most logical sub-headings when written._
 
 + How to sign up
   + Note: must verify your email address or you will not be allowed to create or comment on issues
@@ -60,4 +60,16 @@ _Note: The sub-headings here are not specifically sub-headings, they are just po
 + Terminology
   + Look through repo UI, pull out the common terms and explain them in simple language
     
-  
+## Issues - Example section
+Issues are **how a team will track their tasks** for the current [sprint](http://scrummethodology.com/scrum-sprint/),
+store ideas for future features and log any [bugs](https://www.techopedia.com/definition/24864/software-bug-) that they find which need fixing.
+
+To access a project's issues... 
+
+_**NOTE: THIS IS NOW THE OLD INTERFACE AND NEEDS TO BE UPDATED!**_
+<img width="196" alt="where-to-find-issues-in-repo" src="https://cloud.githubusercontent.com/assets/4185328/11078036/454549bc-87fb-11e5-8d31-536ca6e87ce3.png">
+
+ 
+ 
+ 
+ 

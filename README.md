@@ -34,21 +34,42 @@ We've created this reference guide to provide people who are not developers (and
 
 
 ## To be answered (rough ideas for inclusion)
-+ Sign up
-  + Verify your email address
-+ Organisation
-+ Repo - use folder analogy
-  + Watching a repo
-  + Scroll for readme - what is a readme
-  + Where is the code?
-  + Reference to terminology section for rest of UI?
+_Note: The sub-bullet points here are not specifically sub-headings that need to appear as titles in this document, they are just points that need to be covered. They should be split out into the most logical sub-headings when written._
+
++ How to sign up
+  + Note: must verify your email address or you will not be allowed to create or comment on issues
++ What is an organisation? Use https://github.com/dwyl as example
++ What is a repo - use folder analogy to explain
+  + How to:
+    + Get into a repo
+    + Explain that you scroll to get to readme - what is a readme and what can you expect to see there?
+    + Where is the code?
+    + Rather than talking through the rest of the repo's UI, add a reference to terminology for main terms like 'pull requests', etc
 + Issues 
-  + How to find issues
+  + What are issues in the context of task management?
+  + How to find issues (in the repo UI)
   + Issues list view explained
   + Creating a new issue
-  + Various things you'll see on an existing issue, e.g. references from other issues, PRs, commits, everything is tracked
+  + Various things you'll see on an existing issue, e.g. references from other issues and PRs, commits and everything is tracked (give example of assigning labels to an issue) 
   + Tips for commenting on issues
-    + Referencing other issues, mentioning specific people
+    + Referencing other issues
+    + Mentioning specific people
 + Managing your notifications
+  + What watching a repo means and how to do it
+  + Manage email settings
++ Terminology
+  + Look through repo UI, pull out the common terms and explain them in simple language
     
-  
+## Issues - Example section
+Issues are **how a team will track their tasks** for the current [sprint](http://scrummethodology.com/scrum-sprint/),
+store ideas for future features and log any [bugs](https://www.techopedia.com/definition/24864/software-bug-) that they find which need fixing.
+
+To access a project's issues... 
+
+_**NOTE: THIS IS NOW THE OLD INTERFACE AND NEEDS TO BE UPDATED!**_
+<img width="196" alt="where-to-find-issues-in-repo" src="https://cloud.githubusercontent.com/assets/4185328/11078036/454549bc-87fb-11e5-8d31-536ca6e87ce3.png">
+
+ 
+ 
+ 
+ 

@@ -39,11 +39,11 @@ Some sections here are *intended* to be a walkthrough. Feel free to explore Gith
 
 ### How to sign up
 
-Go to https://github.com and click 'Sign Up' in the top right! <img width="150" alt="sign-up-box" src="https://cloud.githubusercontent.com/assets/13098199/12653686/8ca8713c-c5e8-11e5-9f9b-e37fa49f7d58.png">
+Go to https://github.com and click 'Sign Up' in the top right! <img width="350" alt="sign-up-box" src="https://cloud.githubusercontent.com/assets/13098199/12653686/8ca8713c-c5e8-11e5-9f9b-e37fa49f7d58.png">
 
 Enter your **username**, **email address** and **password** to create an account.
 
-Then choose the **free tier**, which will be *selected by default* <img width="150" alt="free-tier" src="https://cloud.githubusercontent.com/assets/13098199/12653664/801f1998-c5e8-11e5-8064-70be739a2d74.png">
+Then choose the **free tier**, which will be *selected by default* <img width="500" alt="free-tier" src="https://cloud.githubusercontent.com/assets/13098199/12653664/801f1998-c5e8-11e5-8064-70be739a2d74.png">
 
 ...and then you'll **officially be a Github user!**
 
@@ -51,9 +51,9 @@ Next, you'll have to **verify your email address** otherwise you will not be all
 
 Click on your profile picture in the **top-right** of the screen:
 
-  <img width="150" alt="user-menu" src="https://help.github.com/assets/images/help/settings/userbar-account-settings.png">
+  <img width="400" alt="user-menu" src="https://help.github.com/assets/images/help/settings/userbar-account-settings.png">
 
-In the left sidebar, click **Emails**:   <img width="150" alt="emails" src="https://help.github.com/assets/images/help/settings/settings-sidebar-emails.png">
+In the left sidebar, click **Emails**:   <img width="400" alt="emails" src="https://help.github.com/assets/images/help/settings/settings-sidebar-emails.png">
 
 **Next** to your email address, click **Send verification email**. Now you should have an email sitting in your inbox where you can **verify** your email address!
 
@@ -63,7 +63,7 @@ In the left sidebar, click **Emails**:   <img width="150" alt="emails" src="http
 
 Let's start busting some of the *tech jargon* on Github. An **organisation** represents a *group of people* working together, like a company or a collaborative project. For example, [dwyl](https://github.com/dwyl)!
 
-<img width="500" alt="dwyl-organisation" src="https://cloud.githubusercontent.com/assets/13098199/12653662/7de7655e-c5e8-11e5-8556-9efa007d5d48.png">
+<img width="900" alt="dwyl-organisation" src="https://cloud.githubusercontent.com/assets/13098199/12653662/7de7655e-c5e8-11e5-8556-9efa007d5d48.png">
 
 #### What is a repo?
 
@@ -71,13 +71,13 @@ A **repo**, which is short for **repository**, is a directory or storage space f
 
 To **get into a repo**, you can browse an organisation's repos on the **organisation** page shown above. Alternatively, you can search for them in the **search bar** which is also shown above and here.
 
-<img width="500" alt="repo-search-bar" src="https://cloud.githubusercontent.com/assets/13098199/12653678/896df582-c5e8-11e5-9708-8b85750c7186.png">
+<img width="650" alt="repo-search-bar" src="https://cloud.githubusercontent.com/assets/13098199/12653678/896df582-c5e8-11e5-9708-8b85750c7186.png">
 
 Once you're on the **repo page**, you can **scroll down** to find the **readme**. A **readme** is a document which should contain a great deal of the information concerning a project: **What** the project is for, **Why** it is being worked on, **Who** is working on it, **How** to run the program and **how** you can contribute, and so on. You're reading this repo's **readme** right now!
 
 You *may* be wondering where you can find the **code** on a repo. There isn't any code on *this particular* repo, but if you browse through the repos found on the *dwyl* organisation page, you will find repos which hold a lot of code, like this one:
 
- <img width="500" alt="repo-with-code" src="https://cloud.githubusercontent.com/assets/13098199/12653661/7b982180-c5e8-11e5-8d19-33a5905bc025.png">
+ <img width="900" alt="repo-with-code" src="https://cloud.githubusercontent.com/assets/13098199/12653661/7b982180-c5e8-11e5-8d19-33a5905bc025.png">
 
 The code can be found in folders like **lib** (short for library), **public** and **styles**. Files with code in them will typically end with **.js** for Javascript, **.html** for HTML and **.css** for CSS, amongst others.
 
@@ -90,7 +90,7 @@ store ideas for future features and log any [bugs](https://www.techopedia.com/de
 
 To **access** a project's issues, click the **Issues** tab which is shown immediately below the **repository name**:
 
- <img width="350" alt="issues-tab" src="https://cloud.githubusercontent.com/assets/13098199/12653683/8b27bd2c-c5e8-11e5-83f1-9f113ec1c983.png">
+ <img width="700" alt="issues-tab" src="https://cloud.githubusercontent.com/assets/13098199/12653683/8b27bd2c-c5e8-11e5-83f1-9f113ec1c983.png">
 
 By default you will now see a list of the repo's **open** issues. When you create an issue, it is treated as **open**, and is only **closed** when the team or individual who **created** the issue feel it has been adequately addressed.
 
@@ -98,7 +98,7 @@ When looking at the list of **open** issues, you will be able to see the **title
 
 To **create a new issue**, click on the **New Issue button** on the top right of the **Issues** page
 
-<img width="75" alt="new-issue" src="https://cloud.githubusercontent.com/assets/13098199/12653672/84e0a910-c5e8-11e5-8fe0-300bf339e76b.png">
+<img width="350" alt="new-issue" src="https://cloud.githubusercontent.com/assets/13098199/12653672/84e0a910-c5e8-11e5-8fe0-300bf339e76b.png">
 
 Here you'll be able to specify *details* about an issue, give the issue a *label*, and *assign* the issue to a project collaborator (or yourself!).
 
@@ -108,23 +108,23 @@ Here you'll be able to specify *details* about an issue, give the issue a *label
 
 *Within* an issue, as we mentioned above, it is possible to reference other issues. When viewing a **list** of issues, you will see the **issue number** alongside a *hashtag* (#), immediately underneath the issue title:
 
-<img width="300" alt="issue-number" src="https://cloud.githubusercontent.com/assets/13098199/12653668/8383ba30-c5e8-11e5-9d68-d7ffdba1d9cd.png">
+<img width="700" alt="issue-number" src="https://cloud.githubusercontent.com/assets/13098199/12653668/8383ba30-c5e8-11e5-9d68-d7ffdba1d9cd.png">
 
 When you're **within** an issue, the **issue number** can be seen *next to* or *under* the **title** of the issue.
 
-<img width="250" alt="issue-number-on-issue" src="https://cloud.githubusercontent.com/assets/13098199/12653666/81f1e3ae-c5e8-11e5-8cde-2648868159b1.png">
+<img width="600" alt="issue-number-on-issue" src="https://cloud.githubusercontent.com/assets/13098199/12653666/81f1e3ae-c5e8-11e5-8cde-2648868159b1.png">
 
 So, you can *cite* this **issue number** within an issue to reference *another* issue, like so!
 
-<img width="250" alt="referencedIssue" src="https://cloud.githubusercontent.com/assets/13098199/12653674/86465566-c5e8-11e5-9cbe-0d489ee8030f.png">
+<img width="500" alt="referencedIssue" src="https://cloud.githubusercontent.com/assets/13098199/12653674/86465566-c5e8-11e5-9cbe-0d489ee8030f.png">
 
 This issue will appear in the other one:
 
-<img width="250" alt="referenced-Issue-Notification" src="https://cloud.githubusercontent.com/assets/13098199/12653676/87d06e1c-c5e8-11e5-90e4-9e390e28b120.png">
+<img width="600" alt="referenced-Issue-Notification" src="https://cloud.githubusercontent.com/assets/13098199/12653676/87d06e1c-c5e8-11e5-90e4-9e390e28b120.png">
 
 Additionally, you can **mention** someone in an issue comment, by typing an at-sign (@), followed by their Github **username**, to notify them, as shown here:
 
-<img width="200" alt="at-someone" src="https://cloud.githubusercontent.com/assets/13098199/12653688/8df70580-c5e8-11e5-904f-1b1d79d2fb1f.png">
+<img width="500" alt="at-someone" src="https://cloud.githubusercontent.com/assets/13098199/12653688/8df70580-c5e8-11e5-904f-1b1d79d2fb1f.png">
 
 We *love* using Github issues for project management, and we're conscious the above is a **lot** to take in, so perhaps [this video](https://www.youtube.com/watch?v=TJlYiMp8FuY) will help clarify the issues interface, and help to visualise *what* is going on within the issues section, and *why* it can be so useful.
 
@@ -138,7 +138,7 @@ Your **email notifications** will appear in your inbox, and your **web notificat
 
 If you're not currently **watching** a repo, you can choose to watch it by clicking the **watch** button at the top of the repo.
 
-<img width="200" alt="watch-button" src="https://cloud.githubusercontent.com/assets/13098199/12655013/be149c86-c5ee-11e5-98c8-dbfc3f6238f1.png">
+<img width="600" alt="watch-button" src="https://cloud.githubusercontent.com/assets/13098199/12655013/be149c86-c5ee-11e5-98c8-dbfc3f6238f1.png">
 
 This will register you to receive notifications when there's new **activity** on the repo, as specified above.
 

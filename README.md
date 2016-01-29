@@ -39,23 +39,25 @@ Some sections here are *intended* to be a walkthrough. Feel free to explore Gith
 
 ### How to sign up
 
-Go to https://github.com and click 'Sign Up' in the top right! <img width="350" alt="sign-up-box" src="https://cloud.githubusercontent.com/assets/13098199/12653686/8ca8713c-c5e8-11e5-9f9b-e37fa49f7d58.png">
+<!-- <img width="350" alt="sign-up-box" src="https://cloud.githubusercontent.com/assets/13098199/12653686/8ca8713c-c5e8-11e5-9f9b-e37fa49f7d58.png"> -->
 
-Enter your **username**, **email address** and **password** to create an account.
+1. Go to https://github.com and click 'Sign Up' in the top right!
+2. Enter your **username**, **email address** and **password** to create an account.
+3. Choose the **free tier**, which will be *selected by default*
 
-Then choose the **free tier**, which will be *selected by default* <img width="500" alt="free-tier" src="https://cloud.githubusercontent.com/assets/13098199/12653664/801f1998-c5e8-11e5-8064-70be739a2d74.png">
+<img width="600" alt="free-tier" src="https://cloud.githubusercontent.com/assets/13098199/12653664/801f1998-c5e8-11e5-8064-70be739a2d74.png">
 
 ...and then you'll **officially be a Github user!**
 
 Next, you'll have to **verify your email address** otherwise you will not be allowed to *create* or *comment on* issues (which we'll come to later). You *should* have received an email to **verify your email address**, but if not, do the following:
 
-Click on your profile picture in the **top-right** of the screen:
+1. Click on your profile picture in the **top-right** of the screen:
 
-  <img width="400" alt="user-menu" src="https://help.github.com/assets/images/help/settings/userbar-account-settings.png">
+  <img width="200" alt="user-menu" src="https://help.github.com/assets/images/help/settings/userbar-account-settings.png">
 
-In the left sidebar, click **Emails**:   <img width="400" alt="emails" src="https://help.github.com/assets/images/help/settings/settings-sidebar-emails.png">
+2. In the left sidebar, click **Emails**:   <img width="250" alt="emails" src="https://help.github.com/assets/images/help/settings/settings-sidebar-emails.png">
 
-**Next** to your email address, click **Send verification email**. Now you should have an email sitting in your inbox where you can **verify** your email address!
+3. **Next** to your email address, click **Send verification email**. Now you should have an email sitting in your inbox where you can **verify** your email address!
 
 **NOTE**: Github often updates, so in this instance you may *only have to add a new email* under the **Emails** section and you will automatically receive a verification link.  
 
@@ -96,9 +98,9 @@ By default you will now see a list of the repo's **open** issues. When you creat
 
 When looking at the list of **open** issues, you will be able to see the **titles** of the issues, **who** opened them, **when** they opened them, who is **assigned** to them, as well as what **labels** are attached to the issue. **Labels** are a handy way of organising groups of issues and identifying the *subject* and *content* of an issue - e.g. **question** or **enhancement**.
 
-To **create a new issue**, click on the **New Issue button** on the top right of the **Issues** page
+To **create a new issue**, click on the **New issue button** on the top right of the **Issues** page
 
-<img width="350" alt="new-issue" src="https://cloud.githubusercontent.com/assets/13098199/12653672/84e0a910-c5e8-11e5-8fe0-300bf339e76b.png">
+<img width="200" alt="new-issue" src="https://cloud.githubusercontent.com/assets/13098199/12653672/84e0a910-c5e8-11e5-8fe0-300bf339e76b.png">
 
 Here you'll be able to specify *details* about an issue, give the issue a *label*, and *assign* the issue to a project collaborator (or yourself!).
 
@@ -108,7 +110,7 @@ Here you'll be able to specify *details* about an issue, give the issue a *label
 
 *Within* an issue, as we mentioned above, it is possible to reference other issues. When viewing a **list** of issues, you will see the **issue number** alongside a *hashtag* (#), immediately underneath the issue title:
 
-<img width="700" alt="issue-number" src="https://cloud.githubusercontent.com/assets/13098199/12653668/8383ba30-c5e8-11e5-9d68-d7ffdba1d9cd.png">
+<img width="900" alt="issue-number" src="https://cloud.githubusercontent.com/assets/13098199/12653668/8383ba30-c5e8-11e5-9d68-d7ffdba1d9cd.png">
 
 When you're **within** an issue, the **issue number** can be seen *next to* or *under* the **title** of the issue.
 
@@ -116,15 +118,15 @@ When you're **within** an issue, the **issue number** can be seen *next to* or *
 
 So, you can *cite* this **issue number** within an issue to reference *another* issue, like so!
 
-<img width="500" alt="referencedIssue" src="https://cloud.githubusercontent.com/assets/13098199/12653674/86465566-c5e8-11e5-9cbe-0d489ee8030f.png">
+<img width="350" alt="referencedIssue" src="https://cloud.githubusercontent.com/assets/13098199/12653674/86465566-c5e8-11e5-9cbe-0d489ee8030f.png">
 
 This issue will appear in the other one:
 
-<img width="600" alt="referenced-Issue-Notification" src="https://cloud.githubusercontent.com/assets/13098199/12653676/87d06e1c-c5e8-11e5-90e4-9e390e28b120.png">
+<img width="800" alt="referenced-Issue-Notification" src="https://cloud.githubusercontent.com/assets/13098199/12653676/87d06e1c-c5e8-11e5-90e4-9e390e28b120.png">
 
 Additionally, you can **mention** someone in an issue comment, by typing an at-sign (@), followed by their Github **username**, to notify them, as shown here:
 
-<img width="500" alt="at-someone" src="https://cloud.githubusercontent.com/assets/13098199/12653688/8df70580-c5e8-11e5-904f-1b1d79d2fb1f.png">
+<img width="800" alt="at-someone" src="https://cloud.githubusercontent.com/assets/13098199/12653688/8df70580-c5e8-11e5-904f-1b1d79d2fb1f.png">
 
 We *love* using Github issues for project management, and we're conscious the above is a **lot** to take in, so perhaps [this video](https://www.youtube.com/watch?v=TJlYiMp8FuY) will help clarify the issues interface, and help to visualise *what* is going on within the issues section, and *why* it can be so useful.
 
@@ -138,7 +140,7 @@ Your **email notifications** will appear in your inbox, and your **web notificat
 
 If you're not currently **watching** a repo, you can choose to watch it by clicking the **watch** button at the top of the repo.
 
-<img width="600" alt="watch-button" src="https://cloud.githubusercontent.com/assets/13098199/12655013/be149c86-c5ee-11e5-98c8-dbfc3f6238f1.png">
+<img width="800" alt="watch-button" src="https://cloud.githubusercontent.com/assets/13098199/12655013/be149c86-c5ee-11e5-98c8-dbfc3f6238f1.png">
 
 This will register you to receive notifications when there's new **activity** on the repo, as specified above.
 

@@ -87,7 +87,7 @@ For some of the **terminology** you may find while looking at the repo, have a l
 
 #### Issues
 
-Issues are **how a team will track their tasks** for the current [sprint](http://scrummethodology.com/scrum-sprint/),
+Issues are **how a team will track their tasks** for the current sprint (a single iteration of the project, see [here](http://searchsoftwarequality.techtarget.com/definition/Scrum-sprint)),
 store ideas for future features and log any [bugs](https://www.techopedia.com/definition/24864/software-bug-) that they find which need fixing.
 
 To **access** a project's issues, click the **Issues** tab which is shown immediately below the **repository name**:

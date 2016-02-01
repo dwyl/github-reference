@@ -150,6 +150,8 @@ You can manage your notifications settings here: https://github.com/settings/not
 
 We understand there are some *techie* words used above, so hopefully these definitions will help clarify them! You will *likely* come across these terms when you begin exploring repositories.
 
+Don't worry about fully understanding these development concepts, we've provided them in case you're curious as to what they mean!
+
 **Commits** - This is the command that makes Github really powerful *and* useful. When a developer makes a commit, they are taking a **snapshot** of their work at that exact point in time, giving them a checkpoint to which they can restore their work to at any future time.
 
 **Branches** - This is a facility which allows for **multiple people** to work on a project at the same time without confusion over version control. Developers **branch off** the current version of the project and make their own changes. When they're finished making changes, they can **merge** that branch back with the main project branch, which will then be the most **up-to-date** version.

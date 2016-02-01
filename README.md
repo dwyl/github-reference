@@ -49,7 +49,7 @@ Some sections here are *intended* to be a walkthrough. Feel free to explore Gith
 
 ...and then you'll **officially be a Github user!**
 
-Next, you'll have to **verify your email address** otherwise you will not be allowed to *create* or *comment on* issues (which we'll come to later). You *should* have received an email to **verify your email address**, but if not, do the following:
+Next, you'll have to **verify your email address**, otherwise you will not be allowed to *create* or *comment on* issues (which we'll come to later). You *should* have received an email to **verify your email address**, but if not, do the following:
 
 1. Click on your profile picture in the **top-right** of the screen:
 
@@ -71,13 +71,13 @@ Let's start busting some of the *tech jargon* on Github. An **organisation** rep
 
 A **repo**, which is short for **repository**, is a directory or storage space for a project. It can be contained in a folder on your computer, or it can be kept on GitHub. You can keep code files, text files, image files or **any other type of file** inside a repository.
 
-To **get into a repo**, you can browse an organisation's repos on the **organisation** page shown above. Alternatively, you can search for them in the **search bar** which is also shown above and here.
+To **get onto a repo's page**, you can browse an organisation's repos on the **organisation** page shown above. Alternatively, you can search for them in the **search bar** which is also shown above and here. Once you've found the repo, click on the title and you'll be taken to the repo's page.
 
 <img width="650" alt="repo-search-bar" src="https://cloud.githubusercontent.com/assets/13098199/12653678/896df582-c5e8-11e5-9708-8b85750c7186.png">
 
-Once you're on the **repo page**, you can **scroll down** to find the **readme**. A **readme** is a document which should contain a great deal of the information concerning a project: **What** the project is for, **Why** it is being worked on, **Who** is working on it, **How** to run the program and **how** you can contribute, and so on. You're reading this repo's **readme** right now!
+Once you're on the **repo page**, you can **scroll down** to find the **readme**. A **readme** is a document which should contain a great deal of the information concerning a project: **What** the project is for, **why** it is being worked on, **who** is working on it, **how** to run the program and **how** you can contribute, and so on. You're reading this repo's **readme** right now!
 
-You *may* be wondering where you can find the **code** on a repo. There isn't any code on *this particular* repo, but if you browse through the repos found on the *dwyl* organisation page, you will find repos which hold a lot of code, like this one:
+You may be wondering where you can find the **code** on a repo. There isn't any code on this *particular* repo, but if you browse through the repos found on the *dwyl* organisation page, you will find repos which hold a lot of code, like this one:
 
  <img width="900" alt="repo-with-code" src="https://cloud.githubusercontent.com/assets/13098199/12653661/7b982180-c5e8-11e5-8d19-33a5905bc025.png">
 

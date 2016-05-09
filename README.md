@@ -1,4 +1,4 @@
-# GitHub for non-technical people [Work in Progress]
+# GitHub for non-technical people
 
 ![GitHub-logo](http://doc.rultor.com/images/github-logo.png)
 <br/>
